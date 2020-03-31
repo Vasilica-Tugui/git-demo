@@ -2,8 +2,6 @@
 
 THis is the first file in the repo.
 
-## Ipsum Below
+## Website files
 
-alsbdula alsidkublaus dalisudblashd aksbdlakbbaljh ahbslabdi aslhdbai;sbd asdlibaqlsidbalj dailkbsdliab.
-
-COVID-19 caught me in my notice period between jobs and the new agency withdrew their offer before I could start, thereby leaving me jobless.
+1.index.html
